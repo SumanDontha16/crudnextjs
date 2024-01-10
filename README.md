@@ -1,0 +1,2 @@
+# crudnextjs
+CRUD in NextJS
